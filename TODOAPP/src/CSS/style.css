@@ -1,0 +1,10 @@
+.inline-header{
+    color:rgb(3, 47, 86);
+    font-size: 30px;
+    background-color: yellowgreen;
+}
+.outline-header{
+    color:yellowgreen;
+    font-size: 30px;
+    background-color: blue;
+}
